@@ -23,5 +23,5 @@
 
 ## Demo
 
-[Live Demo](https://quickhire-ugl0.onrender.com)
+[Live Demo](https://quickhire-1o2g.onrender.com)
 
